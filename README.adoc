@@ -1,0 +1,16 @@
+= *http://olado.github.io/doT/index.html[doT]* template plugin for Jetbrains IDEs
+//:toc:
+
+doT-plus adds support for doT templates to IDEs based on the Intellij IDEA platform (IntelliJ IDEA, IDEA Community
+Edition, RubyMine, PhpStorm, WebStorm, PyCharm, AppCode, etc).
+
+== Installing
+
+To install the latest release (and get automatic updates), install this plugin using your IDE's plugin manager:
+
+* In Settings -> Plugins, choose "Browse repositories". Find "doT-plus" on the list, right-click, then select "Download and Install"
+
+By default, the plugin handles *.dot files.
+
+== Change Log
+include::docs/change-log.adoc[]
